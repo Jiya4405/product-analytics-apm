@@ -4,6 +4,8 @@ A self-directed portfolio project simulating a B2B SaaS product analytics pipeli
 
 **Built for:** Product Managers investigating retention regressions after authentication changes.
 
+**Live dashboard:** https://jiya4405.github.io/product-analytics-apm/
+
 **All data in this repo is synthetically generated** (`generate_clickstream_data.py`, seeded for reproducibility) — this project demonstrates the analytics workflow and PM reasoning end to end, not real production telemetry.
 
 ## The scenario
